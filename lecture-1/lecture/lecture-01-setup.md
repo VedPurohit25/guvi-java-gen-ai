@@ -57,3 +57,30 @@ jshell
 jshell> System.out.println("Hi");
 jshell> int a = 10; long b = 20L; a + b
 ```
+
+
+AS Per Topics of First lecture 
+Go through following questions :
+1. What is language ?
+2. Explain language and its types in brief or detais?
+3. What is programming language ?
+4. How person can communicate with each other ?
+5. How does person tell computer to program to perform task ?
+6. Can person tell to perform task and can computer do pre-defined task or have the set of task to perform ?
+7. Explain Human to Human communication and Human to Machine Communication in brief with the help of neat labelled diagram and example?
+8. Why Grammaer is used in language and notations are used in grammer?
+9. Explain History from Human language to High level language with diagram and examples?
+10. Which are components of programming language?
+11. Explain types of components of code in detailed with the help of real time examples ?
+12. What is syntax , explain in brief ?
+13. What is difference between H2H and H2M ?
+14. What is difference between Syntatically and Sematically components?
+15. Why Computer science is developed, Explain with diagram with great example?
+16. Why Programming languages are cultivated in the land of Earth technology ?
+17. Give reason Why you want to be a Proggramer of life of technologies of Robots?
+18. Give reason Why there is need to do study of technology?
+19. Give reason Why we cannot do activities of daily life in technological way of computer science ?
+20. What is history of programming?
+21. What is java?
+22. Why java why not other language?
+23. What is OOPs ?
